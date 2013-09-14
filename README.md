@@ -1,4 +1,4 @@
-mobile-perf
-===========
+Unittests
+=========
 
-Performance TAF for Couchbase Lite and Sync Gateway
+    go test ./...
