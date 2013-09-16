@@ -8,7 +8,7 @@ Install Sync Gateway
 
     go run utils/install.go -version="1.0-beta" -cluster="clusters/sample.conf"
 
-Unittests
----------
+Unit tests
+----------
 
     go test ./...
